@@ -1,25 +1,15 @@
 {
-    "name": "AI TRUMP",
-    "symbol": "AITRUMP",
-    "description": "The AI version of Trump on Solana",
-    "image": "https://zaikaman.github.io/aitrump-metadata/assets/logo.png",
-    "external_url": "https://zaikaman.github.io/aitrump-metadata",
-    "attributes": [
-        {
-            "trait_type": "Category",
-            "value": "Meme Token"
-        },
-        {
-            "trait_type": "Network",
-            "value": "Solana"
-        }
-    ],
-    "properties": {
-        "files": [
-            {
-                "uri": "https://zaikaman.github.io/aitrump-metadata/assets/logo.png",
-                "type": "image/png"
-            }
-        ]
-    }
-} 
+  "name": "AI Trump",
+  "symbol": "AITrump",
+  "description": "The AI version of Trump on Solana",
+  "image": "https://zaikaman.github.io/aitrump-metadata/assets/logo.png",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "GiRYfj9xgkuXCQNnq5tEVYBSjk7jcn2vNrz2VMqAxJkP",
+        "share": 100
+      }
+    ]
+  }
+}
