@@ -1,0 +1,25 @@
+{
+    "name": "AI TRUMP",
+    "symbol": "AITRUMP",
+    "description": "The AI version of Trump on Solana",
+    "image": "https://[your-github-username].github.io/aitrump-metadata/assets/logo.png",
+    "external_url": "https://[your-github-username].github.io/aitrump-metadata",
+    "attributes": [
+        {
+            "trait_type": "Category",
+            "value": "Meme Token"
+        },
+        {
+            "trait_type": "Network",
+            "value": "Solana"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://[your-github-username].github.io/aitrump-metadata/assets/logo.png",
+                "type": "image/png"
+            }
+        ]
+    }
+} 
