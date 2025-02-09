@@ -2,8 +2,8 @@
     "name": "AI TRUMP",
     "symbol": "AITRUMP",
     "description": "The AI version of Trump on Solana",
-    "image": "https://[your-github-username].github.io/aitrump-metadata/assets/logo.png",
-    "external_url": "https://[your-github-username].github.io/aitrump-metadata",
+    "image": "https://zaikaman.github.io/aitrump-metadata/assets/logo.png",
+    "external_url": "https://zaikaman.github.io/aitrump-metadata",
     "attributes": [
         {
             "trait_type": "Category",
@@ -17,7 +17,7 @@
     "properties": {
         "files": [
             {
-                "uri": "https://[your-github-username].github.io/aitrump-metadata/assets/logo.png",
+                "uri": "https://zaikaman.github.io/aitrump-metadata/assets/logo.png",
                 "type": "image/png"
             }
         ]
